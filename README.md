@@ -9,7 +9,7 @@ Diamond grading is traditionally done manually, which can be subjective and time
 - **Python**, **TensorFlow**, **Keras**, **OpenCV**
 - **CNNs** for image classification
 - **Power BI** for performance analytics
-- **Jupyter Notebooks** for training workflows
+- **Google Collab** for training workflows
 - **Streamlit** *(optional)* for a user-friendly demo interface
 
 ## 📊 Features
